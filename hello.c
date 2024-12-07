@@ -1,4 +1,5 @@
 #include <stdio.h>
 void main(){
-    printf("complete Installing VSCode..!\n");
+    printf("--------------hello.c--------------\n");
+    printf("Hi, It's my first repository created by VSCode.\n");
 }
